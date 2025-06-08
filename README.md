@@ -12,7 +12,7 @@ i.e
    ./myServer 12345 #Start the server first, in the first terminal window
    ```
    ```bash
-   ./myClient localhost 12345 #Start the client the second terminal window
+   ./myClient localhost 12345 #Start the client in the second terminal window
    ```
 
 The index for the memory database is 1 and for the on-disk 2. These are the index used when doing the command "CHANGE_DATABASE".
