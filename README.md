@@ -1,6 +1,7 @@
 To install write in the command prompt when in the src directionary.
-- make all
-
+´´´
+make all
+´´
 To move the executables to the bin folder, write another command in the same directionary. (This also creates a bin folder if it doesn't exist).
 - make install
 
