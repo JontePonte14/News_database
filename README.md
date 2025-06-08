@@ -9,7 +9,7 @@ To move the executables to the bin folder, write another command in the same dir
 Start the server first and input the a valid ports (for example 12345), then start the client and input localhost and the same valid port number as the server. Note this should be done in two seperate terminal windows
 i.e 
    ```bash
-   ./myServer 12345 #Start the server first the first terminal window
+   ./myServer 12345 #Start the server first, in the first terminal window
    ```
    ```bash
    ./myClient localhost 12345 #Start the client the second terminal window
